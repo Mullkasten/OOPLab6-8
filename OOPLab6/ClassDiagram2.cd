@@ -1,0 +1,122 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="OOPLab6.Shape">
+    <Position X="7" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAAICAAACAAAIIIAAAAAAAAAAAAQAAAABgABA=</HashCode>
+      <FileName>Class1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOPLab6.CCircle">
+    <Position X="5" Y="0.75" Width="1.5" />
+    <InheritanceLine Type="OOPLab6.Shape" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="7.812" Y="0.5" />
+        <Point X="7.812" Y="0.125" />
+        <Point X="5.75" Y="0.125" />
+        <Point X="5.75" Y="0.75" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAAICAAACAAAIIAAAAAAAAAAAAARBhAABgARA=</HashCode>
+      <FileName>Class1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOPLab6.CSquare">
+    <Position X="9" Y="0.75" Width="1.5" />
+    <InheritanceLine Type="OOPLab6.Shape" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="7.812" Y="0.5" />
+        <Point X="7.812" Y="0.125" />
+        <Point X="9.812" Y="0.125" />
+        <Point X="9.812" Y="0.75" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAAICAAACAAAIIAAAAAAAAAAAABRBgAABgARA=</HashCode>
+      <FileName>Class1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOPLab6.CTriangle">
+    <Position X="12.5" Y="0.75" Width="1.5" />
+    <InheritanceLine Type="OOPLab6.Shape" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="7.812" Y="0.5" />
+        <Point X="7.812" Y="0.125" />
+        <Point X="13.25" Y="0.125" />
+        <Point X="13.25" Y="0.75" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAAICAAACAAAIIAAAAAAAAAACgASAAAABgARA=</HashCode>
+      <FileName>Class1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOPLab6.CSection">
+    <Position X="0.5" Y="0.75" Width="1.5" />
+    <InheritanceLine Type="OOPLab6.Shape" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="7.812" Y="0.5" />
+        <Point X="7.812" Y="0.125" />
+        <Point X="1.25" Y="0.125" />
+        <Point X="1.25" Y="0.75" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAAICAAACAAAIIAAAAAAAAAAAwASAAAABgABA=</HashCode>
+      <FileName>Class1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOPLab6.Storage">
+    <Position X="17.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAJAAAAAILAIACERAIAAAAAIBCAAAABgQAAEAQEiBA=</HashCode>
+      <FileName>Class1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOPLab6.CGroup">
+    <Position X="10.75" Y="0.75" Width="1.5" />
+    <InheritanceLine Type="OOPLab6.Shape" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="7.812" Y="0.5" />
+        <Point X="7.812" Y="0.125" />
+        <Point X="11.5" Y="0.125" />
+        <Point X="11.5" Y="0.75" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>QQAAIAAAAIDAAACABAIIAAAAAAAAAAAQgQAAAAQkABA=</HashCode>
+      <FileName>Class1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOPLab6.CShapeFactory">
+    <Position X="14.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Class1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOPLab6.CGlueObject">
+    <Position X="2.75" Y="0.75" Width="1.5" />
+    <InheritanceLine Type="OOPLab6.Shape" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="7.812" Y="0.5" />
+        <Point X="7.812" Y="0.125" />
+        <Point X="3.5" Y="0.125" />
+        <Point X="3.5" Y="0.75" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAIAIAAAAICAAACAAAIIAAAAAAAAACQABRBgAQBkARA=</HashCode>
+      <FileName>Class1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOPLab6.Observer">
+    <Position X="16" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAgAAAAAAAAACAAAAAAAAAEAAEAAA=</HashCode>
+      <FileName>Class1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
